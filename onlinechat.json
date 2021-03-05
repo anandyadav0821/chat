@@ -1,0 +1,22 @@
+{
+  "status_code": 200,
+
+  "data": [
+    {
+      "country_image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1350px-Flag_of_India.svg.png",
+      "country_name":"India",
+      "country_id":"91"
+      
+    },
+    {
+        "country_image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1350px-Flag_of_India.svg.png",
+        "country_name":"Pakistan",
+        "country_id":"91"
+    },
+    {
+        "country_image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1350px-Flag_of_India.svg.png",
+        "country_name":"USA",
+        "country_id":"91"
+    }
+  ]
+}
