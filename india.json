@@ -16,7 +16,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -24,14 +24,14 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },{
       "id":"1",
       "image": "http://webmeup.com/upload/blog/lead-image-105.png",
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -39,7 +39,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -47,14 +47,14 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },{
       "id":"1",
       "image": "http://webmeup.com/upload/blog/lead-image-105.png",
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -62,7 +62,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -70,14 +70,14 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },{
       "id":"1",
       "image": "http://webmeup.com/upload/blog/lead-image-105.png",
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -85,7 +85,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -93,14 +93,14 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },{
       "id":"1",
       "image": "http://webmeup.com/upload/blog/lead-image-105.png",
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -108,7 +108,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     },
     {
       "id":"1",
@@ -116,7 +116,7 @@
       "name": "India",
       "number": "911234567891",
       "city":"city",
-      "ad":true
+      "ad":false
     }
     
     
