@@ -1,0 +1,38 @@
+{
+  "status_code": 200,
+
+  "data": [
+    {
+      "id": "1",
+      "title":"Yes Video Player",
+      "image":"https://play-lh.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+    },
+    
+    {
+      "id": "1",
+      "title":"Yes Video Player",
+      "image":"https://play-lh.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+    },
+    {
+      "id": "1",
+      "title":"Yes Video Player",
+      "image":"https://play-lh.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+    },
+    {
+      "id": "1",
+      "title":"Yes Video Player",
+      "image":"https://play-lh.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+    },
+    {
+      "id": "1",
+      "title":"Yes Video Player",
+      "image":"https://play-lh.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+    }
+   
+  ]
+}
