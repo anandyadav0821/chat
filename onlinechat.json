@@ -28,7 +28,15 @@
         "country_name":"China",
         "country_id":"91",
       "file":"china","ad":false
+    },
+      {
+      "country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png",
+        "country_name":"Thailand",
+        "country_id":"91",
+      "file":"thailand","ad":false
     }
+    
+    
     
     
   ]
